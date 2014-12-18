@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>825DAE0F-FCEF-4AC3-B459-09244F939978</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IntelligentCommunity</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E02523A3-E0E4-473D-9C3A-2680ACBAA9E3</key>
+		<string>https://bitbucket.org/Jason100/ipad_ideal.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IPadIntelligentCommunity/IntelligentCommunity.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E02523A3-E0E4-473D-9C3A-2680ACBAA9E3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/Jason100/ipad_ideal.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E02523A3-E0E4-473D-9C3A-2680ACBAA9E3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E02523A3-E0E4-473D-9C3A-2680ACBAA9E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ideal-pad</string>
+		</dict>
+	</array>
+</dict>
+</plist>
